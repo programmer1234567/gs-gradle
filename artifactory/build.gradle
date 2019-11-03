@@ -37,7 +37,7 @@ publishing {
         jar(MavenPublication) {
             groupId 'academy.programmer1234567'
             artifactId 'gs-gradle'
-            version '1.4'
+            version '1.5'
             from components.java
         }
     }
